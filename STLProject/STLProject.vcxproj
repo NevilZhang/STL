@@ -155,6 +155,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="STLProject.cpp" />
+    <ClCompile Include="Vector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyBinTree.h" />
@@ -163,6 +164,7 @@
     <ClInclude Include="MyPointer.h" />
     <ClInclude Include="MyRBTree.h" />
     <ClInclude Include="MySort.h" />
+    <ClInclude Include="Vector.h" />
     <ClInclude Include="复制复杂链表.h" />
     <ClInclude Include="MyLinkList.h" />
     <ClInclude Include="MyQueue.h" />
